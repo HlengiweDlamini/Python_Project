@@ -1,0 +1,1 @@
+This is a Tic-Tac-Toe game in python with two players; one being the user(X) and the other being the computer(O) using the "random" library. The program displays the winne, as well as when players have tied.
